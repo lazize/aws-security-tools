@@ -7,7 +7,7 @@
 # DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 # ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #
-# For LICENSE information, plese check the source repository:
+# For LICENSE information, please check the source repository:
 # https://github.com/lazize/aws-security-tools
 
 import boto3
